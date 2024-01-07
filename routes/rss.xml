@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Camping</title>
+	<link>https://youtube.com</link>
+	<description>Helping you build websites</description>
+	<lastBuildDate>Wed, 15 June 2021 9:00:00 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod> hourly	</sy:updatePeriod>
+	<sy:updateFrequency> 1	</sy:updateFrequency>
+	<item>
+		<title>Come our camping and relax with new friends</title>
+		<link>https://www.youtube.com/watch?v=oBNftjCmbqo</link>
+		<comments>https://www.youtube.com/watch?v=oBNftjCmbqo</comments>	
+		<dc:creator><![CDATA[Vincy]]></dc:creator>
+		<pubDate>Wed, 15 June 2021 9:00:00 +0000</pubDate>
+		<category><![CDATA[PHP]]></category>
+		<description><![CDATA[Camping adventure is excellent moment in our life]]></description>
+		<wfw:commentRss>https://www.youtube.com/watch?v=oBNftjCmbqo</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	</item>
+	<item>
+		<title>Camping makes you happy and fresh mind with nature</title>
+		<link>https://www.youtube.com/watch?v=BB2rang2WkU</link>
+		<comments>https://www.youtube.com/watch?v=BB2rang2WkU</comments>	
+		<dc:creator><![CDATA[Vincy]]></dc:creator>
+		<pubDate>Wed, 15 June 2021 9:00:00 +0000</pubDate>
+		<category><![CDATA[PHP]]></category>
+		<description><![CDATA[Camping adventure is excellent moment in our life]]></description>
+		<wfw:commentRss>https://www.youtube.com/watch?v=BB2rang2WkU</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	</item>
+	<item>
+		<title>Come our camping and relax with new friends</title>
+		<link>https://www.youtube.com/watch?v=gc5xyn6e_pE</link>
+		<comments>https://www.youtube.com/watch?v=gc5xyn6e_pE</comments>	
+		<dc:creator><![CDATA[Vincy]]></dc:creator>
+		<pubDate>Wed, 15 June 2021 9:00:00 +0000</pubDate>
+		<category><![CDATA[PHP]]></category>
+		<description><![CDATA[Camping adventure is excellent moment in our life]]></description>
+		<wfw:commentRss>https://www.youtube.com/watch?v=gc5xyn6e_pE</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	</item>
+	</channel>
+</rss>
