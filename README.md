@@ -1,2 +1,2 @@
 # Camping-Website
-University Project
+This is my University project developed with html,css,javascript and php.
