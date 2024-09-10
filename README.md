@@ -1,7 +1,7 @@
 # Hi, I'm Aung Zay Myo! 👋
 
 ## 🚀 About Me
-I'm a Cyber Security student.
+I'm a Cyber Security, Computer Science Student.
 
 # Camping-Website
 This is my University project developed with html,css,javascript and php.
